@@ -20,5 +20,12 @@
     
    `python manage.py runserver`
 
-11. Enjoy
+11. Enjoy interacting with the project when server is launched in the browser.
+
+    <img width="592" alt="image" src="https://github.com/iradspm/django-test/assets/39705628/7cea28fd-1e05-425a-a074-db3518dccb2f">
+
+12. Using any browser, visit server at
+    
+    `http://127.0.0.1:8000/`
+
 
