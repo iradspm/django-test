@@ -31,5 +31,10 @@
     
     <img width="854" alt="image" src="https://github.com/iradspm/django-test/assets/39705628/261a6609-28ed-48ee-9b3b-04405fc0f3e1">
 
+14. After succesful login
+
+    <img width="909" alt="image" src="https://github.com/iradspm/django-test/assets/39705628/75c2169d-0e8f-4584-9cfc-0db68b6ba85d">
+
+
 
 
