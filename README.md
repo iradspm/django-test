@@ -27,5 +27,9 @@
 12. Using any browser, visit server at
     
     `http://127.0.0.1:8000/`
+13. The landing page should be like this
+    
+    <img width="854" alt="image" src="https://github.com/iradspm/django-test/assets/39705628/261a6609-28ed-48ee-9b3b-04405fc0f3e1">
+
 
 
